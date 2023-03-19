@@ -7,7 +7,7 @@
 | Safety gloves | ANSI / ISEA 105 Standard,  EN388 rated |
 | Eye protection | |
 | Steel-toe boots | |
-| Intrinsically safe flashlight | |
+| Intrinsically safe flashlight | FM3610/ANSI/ISA 60079-1/UL 1203 certified |
 | N95 rated mask | |
 | hand sanitizer | |
 | First aid kit | |
