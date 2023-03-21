@@ -12,3 +12,5 @@
 | hand sanitizer | |
 | First aid kit | |
 | water bottle ||
+| SO2 mask | typically issued on-site for oil & gas plants | |
+
