@@ -17,3 +17,4 @@
 
 ## Resources
 * [Carhartt](https://www.carhartt.com)
+* [Tyndale](https://tyndaleusa.com/)
