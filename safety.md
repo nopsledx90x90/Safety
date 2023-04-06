@@ -16,4 +16,4 @@
 | SO2 mask | typically issued on-site for oil & gas plants | |
 
 ## Resources
-[Carhartt](https:www.carhartt.com)
+* [Carhartt](https://www.carhartt.com)
