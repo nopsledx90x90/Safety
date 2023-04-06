@@ -1,3 +1,4 @@
+## Safety Gear Checklist
 | Item | Description |
 | --- | --- |
 | Hard hat | Class G (General) hard hats are rated for 2,200 volts. Class E (Electrical) hard hats are rated for 20,000 volts. Class C (Conductive) hard hats do not offer electrical protection. |
